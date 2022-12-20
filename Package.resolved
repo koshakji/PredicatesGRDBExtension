@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "grdb.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/groue/GRDB.swift.git",
+      "state" : {
+        "revision" : "7b63ddf54232db97943759e2b022cf61c5d9e745",
+        "version" : "6.5.0"
+      }
+    },
+    {
+      "identity" : "predicates.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/koshakji/Predicates.swift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3265946b738e96169842140fe759533a705dc433"
+      }
+    }
+  ],
+  "version" : 2
+}
